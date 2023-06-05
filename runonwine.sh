@@ -136,9 +136,6 @@ regadd () {
 }
 
 
-winecfg (){
-   run winecfg 
-}
 
 runwinetricks (){
 
